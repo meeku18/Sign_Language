@@ -1,7 +1,7 @@
 fastapi==0.85.1
 uvicorn==0.18.3
 opencv-python==4.6.0.66
-mediapipe==0.10.14
+mediapipe==0.10.11
 pillow==9.2.0
 numpy==1.21.6
 scikit-learn==1.1.1
